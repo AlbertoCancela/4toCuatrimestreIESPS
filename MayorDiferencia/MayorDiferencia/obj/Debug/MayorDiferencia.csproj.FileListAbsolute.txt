@@ -1,0 +1,7 @@
+C:\Users\PoeVi\source\repos\MayorDiferencia\MayorDiferencia\bin\Debug\MayorDiferencia.exe.config
+C:\Users\PoeVi\source\repos\MayorDiferencia\MayorDiferencia\bin\Debug\MayorDiferencia.exe
+C:\Users\PoeVi\source\repos\MayorDiferencia\MayorDiferencia\bin\Debug\MayorDiferencia.pdb
+C:\Users\PoeVi\source\repos\MayorDiferencia\MayorDiferencia\obj\Debug\MayorDiferencia.csprojAssemblyReference.cache
+C:\Users\PoeVi\source\repos\MayorDiferencia\MayorDiferencia\obj\Debug\MayorDiferencia.csproj.CoreCompileInputs.cache
+C:\Users\PoeVi\source\repos\MayorDiferencia\MayorDiferencia\obj\Debug\MayorDiferencia.exe
+C:\Users\PoeVi\source\repos\MayorDiferencia\MayorDiferencia\obj\Debug\MayorDiferencia.pdb
